@@ -1,0 +1,11 @@
+# Dependencies for EC-101 Stacking Regression Project
+# Student: Manav Hans (26BCS063), NIT Hamirpur
+
+numpy>=1.24.0
+pandas>=2.0.0
+scikit-learn>=1.3.0
+scipy>=1.10.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+joblib>=1.3.0
+streamlit>=1.28.0
